@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Onyinyerowland
+ 👋 Hi, i,m Onyinyechukwu Rowland Olebunne
 - 👀 I’m interested in learning and trying new things
 - 🌱 I’m currently learning Backend Engineering (Python)
 - 💞️ I’m looking to collaborate on new and interesting projects
