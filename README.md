@@ -14,7 +14,7 @@ With a strong background in diagnostics and laboratory science, I’m currently 
 
 - 💻 **Languages**: Python (primary), learning JavaScript basics, HTML and CSS
 - 🔧 **Frameworks & Libraries**: FastAPI (in progress), Django (learning), Flask (exploring)
-- 🛠 **Tools**: Git & GitHub, VS Code, Postman, Docker (beginner)
+- 🛠 **Tools**: Git & GitHub, VS Code, Swagger, Docker (beginner)
 - 🗃️ **Databases**: SQLite, PostgreSQL (learning)
 
 ---
