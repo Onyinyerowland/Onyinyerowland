@@ -32,6 +32,7 @@ With a strong background in diagnostics and laboratory science, I’m currently 
 
 - 🔬 **EventManagementAPI**: A backend system allows users to register for events, track attendance, and manage both event information and speaker details — _ALT School exams_!
 - 🩺 **SocialMediaFeed**: Backend logic for a mini social media feed (added like, unlike and counter to the group work)-_group project_!
+- 🩺 **MiniSocialMediaFeed**:This project is a RESTful API for a mini social media feed, built with FastAPI and PostgreSQL. It demonstrates a complete backend system with secure user authentication, CRUD operations for posts (create, retrieve, update, delete), and a liking mechanism. The API is structured with separate routers for users, posts, and likes, making the codebase clean and easy to scale.
 - 📘 **WellaPath**:A Community -Driven Ai Health Companion This provides real time, localized health guidaince and offers clinic locator and symptom checker--_coming soon_!
 
 ---
