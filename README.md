@@ -1,55 +1,106 @@
- ## 👋 Hi, I'm Onyinyechukwu Rowland Olebunne
+# 👋 Hi, I'm Onyinyechukwu Rowland Olebunne
 
-**Medical Laboratory Scientist 🧪 turned Aspiring Backend Engineer 🔧 | Python Enthusiast 🐍 | Lifelong Learner 📘**
+### Healthcare Leadership & Management | Data-Driven Decision-Making | Python & Research
 
----
+I'm a healthcare professional with experience in laboratory management, quality systems, team leadership, and business performance. My professional journey is expanding into **data analytics, research, and software development**, with a clear goal: helping people and organisations make better decisions using evidence, data, and technology.
 
-## 👨‍🔬 From the Lab to the Terminal...
+Working in healthcare has taught me that good decisions require more than experience or intuition. Leaders need to understand their performance, identify gaps, evaluate evidence, and turn insights into action.
 
-With a strong background in diagnostics and laboratory science, I’m currently transitioning into the world of **backend software engineering**—where logic meets creativity. My journey is driven by a passion for solving real-world problems through **clean, maintainable code** and scalable systems.
-
----
-
-## 🧰 Tech Stack & Tools
-
-- 💻 **Languages**: Python (primary), learning JavaScript basics, HTML and CSS
-- 🔧 **Frameworks & Libraries**: FastAPI (in progress), Django (learning), Flask (exploring)
-- 🛠 **Tools**: Git & GitHub, VS Code, Swagger, Docker (beginner)
-- 🗃️ **Databases**: SQLite, PostgreSQL (learning)
+That is what drives my growing interest in **using data for leadership, management, and business decisions** while developing technical skills to build practical digital solutions.
 
 ---
 
-## 🌱 What I'm Learning Now
+## 🎯 What I'm Passionate About
 
-- Building RESTful APIs with FastAPI
-- Writing clean, testable Python code
-- Database modeling & ORM (with SQLAlchemy & Django ORM)
-- Deployment with Docker & cloud platforms
+- 📊 **Data-Driven Leadership & Management:** Using data, performance indicators, and evidence to understand problems, improve processes, and support better decisions.
+- 📈 **Business Performance:** Exploring how data can reveal trends, measure performance, identify opportunities, and inform business growth.
+- 🔬 **Research & Analytics:** Applying research methods and R programming to investigate questions and generate meaningful insights.
+- 🐍 **Backend Development:** Building APIs and learning to create reliable, maintainable software systems.
+- 🏥 **Healthcare Innovation:** Combining healthcare experience, data, and technology to improve workflows and solve practical problems.
+
+## 🧰 Skills & Tools
+
+- **Programming & Analysis:** Python, R
+- **Backend Development:** FastAPI, REST APIs
+- **Databases:** PostgreSQL, SQLite
+- **Research & Statistics:** Data preparation, descriptive statistics, hypothesis testing, correlation analysis, research methods
+- **Data Visualization:** ggplot2
+- **Tools:** Git, GitHub, VS Code, Swagger
+- **Currently Exploring:** Django, SQLAlchemy, automated testing, Docker, and deployment
+
+I continue to strengthen these skills through practical projects, research, and ongoing learning.
 
 ---
 
 ## 📂 Featured Projects
 
-- 🔬 **EventManagementAPI**: A backend system allows users to register for events, track attendance, and manage both event information and speaker details — _ALT School exams_!
-- 🩺 **SocialMediaFeed**: Backend logic for a mini social media feed (added like, unlike and counter to the group work)-_group project_!
-- 🩺 **MiniSocialMediaFeed**:This project is a RESTful API for a mini social media feed, built with FastAPI and PostgreSQL. It demonstrates a complete backend system with secure user authentication, CRUD operations for posts (create, retrieve, update, delete), and a liking mechanism. The API is structured with separate routers for users, posts, and likes, making the codebase clean and easy to scale.
-- 📘 **WellaPath**:A Community -Driven Ai Health Companion This provides real time, localized health guidaince and offers clinic locator and symptom checker--_coming soon_!
+### 📊 1. Academic Outcomes, Internal Migration and Social Support
+
+A research capstone exploring the relationships between internal migration, social support, sense of belonging, mental-health indicators, and academic performance among secondary school students in Abuja, Nigeria.
+
+**What it demonstrates:**
+- Data preparation, cleaning, validation, and merging.
+- Descriptive statistics and grouped summaries.
+- Data visualization using `ggplot2`.
+- Statistical analysis using Welch's t-test, chi-square tests, and correlation analysis.
+- Effect-size interpretation and reproducible reporting with R Markdown.
+
+**Tools:** R, R Markdown, `tidyverse`, `ggplot2`, `janitor`, `effectsize`
+
+**Data note:** The public demonstration version uses synthetic data to illustrate the analysis workflow. It does not contain the original capstone dataset or report.
+
+🔗 [Explore my GitHub repositories](https://github.com/onyinyerowland)
+
+### 🔧 2. EventManagementAPI
+
+A backend API project for managing events, speaker information, registrations, and attendance.
+
+**Focus:** API development, application logic, and structured information management.
+
+### 💬 3. MiniSocialMediaFeed
+
+A RESTful API built with FastAPI and PostgreSQL to demonstrate the core functionality of a mini social media platform.
+
+**Features:**
+- User authentication.
+- Create, retrieve, update, and delete posts.
+- Like functionality.
+- Separate API routes for users, posts, and likes.
+
+**Tools:** Python, FastAPI, PostgreSQL.
+
+### 🩺 4. WellaPath — Concept in Development
+
+A community-driven AI health companion concept exploring localized health guidance, clinic discovery, and symptom-checking support.
+
+The vision is to make relevant health information easier to access and help users identify appropriate healthcare services.
+
+*This is a concept in development, not an operational clinical service.*
 
 ---
 
-## 🧭 My Mission
+## 💡 How I Think About Leadership, Data & Technology
 
-To **build meaningful backend systems** that simplify processes and improve healthcare and scientific workflows. I believe tech is a powerful tool for positive change—especially when combined with domain knowledge.
+I believe effective leadership combines people, processes, and evidence.
 
----
+Data can help leaders understand what is working, where resources are being lost, what needs improvement, and which opportunities deserve attention. Research helps us ask better questions, while technology gives us tools to improve processes and scale solutions.
 
-## 🤝 Let's Connect!
+My goal is to keep building the skills to connect these areas and turn information into practical action.
 
-- 📫 **Email**: onyinyerowlan123@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/onyinyechukwu-r-olebunne-490891351
-- 🗂️ [Portfolio / Blog (coming soon)](https://github.com/onyinyerowland)
+## 🚀 My Mission
 
-> _“Science gave me structure. Programming gave me scale.”_
+To help improve leadership, management, and business decisions through data and research while building technology solutions that address real-world problems.
 
-Thanks for stopping by! Feel free to explore my repos, raise issues, or connect for collaborations.
+I bring a healthcare professional's perspective, a growing analytical mindset, and a commitment to continuous learning.
 
+## 🤝 Let's Connect
+
+- 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/onyinyechukwu-r-olebunne-490891351)
+- 🗂️ **GitHub:** [Explore my repositories](https://github.com/onyinyerowland)
+- 📧 **Email:** onyinyerowlan123@gmail.com
+
+I'm interested in connecting with healthcare leaders, business professionals, researchers, data practitioners, and developers who believe in using evidence and technology to solve meaningful problems.
+
+> *Better leadership starts with better questions. Better decisions start with evidence.*
+
+Thanks for visiting my profile. Explore my projects, share your feedback, and let's connect!
