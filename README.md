@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Onyinyechukwu Rowland Olebunne
 
-### Healthcare Leadership & Management | Data-Driven Decision-Making | Python & Research
+### Healthcare Manager | Public Health Research | Python, R & Data Analysis | Leadership, Business Growth & Evidence-Based Decisions
 
 I'm a healthcare professional with experience in laboratory management, quality systems, team leadership, and business performance. My professional journey is expanding into **data analytics, research, and software development**, with a clear goal: helping people and organisations make better decisions using evidence, data, and technology.
 
